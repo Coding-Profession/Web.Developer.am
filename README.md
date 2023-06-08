@@ -1,1 +1,36 @@
 # Web.Developer.am
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Professional</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+</head>
+<body>
+   <!-- Navbar  Section Start -->
+<header>
+    <link rel="icon" type="image/png" sizes="32x32" href="RP.webp">
+    <a href="#" class="logo">Web Developer Professional</a>
+
+    <div class="bx bx-menu" id="menu-icon"></div>
+
+    <ul class="navbar">
+        <li><a href="https://www.youtube.com/@Professional1297/videos">YouTube</a></li>
+        <li><a href="https://discord.gg/bbzTkdAr">Discord</a></li>
+        <li><a href="https://vk.com/id785725619">Vkontakt</a></li>
+        <li><a href="indexs.html">FORUM</a></li>
+        <div class="bx bx-moon" id="darkmode"></div>
+    </ul>
+</header>
+<!-- Navbar Section End -->
+
+    <i class="bi bi-brightness-high-fill" id="toggleDark"></i>
+    <center><img src="1547427164_orig.gif" height="500px"></center>
+    <script src="index.js"></script>
+    <center><img src="New.png"></center>
+   <center><img src="Pro.gif" height="400px"></center>
+</body>
+</html>
